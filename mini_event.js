@@ -1,4 +1,4 @@
-import { App } from "/mini_apps/src/app.js";
+import { App } from "app.js";
 
 
 export class MiniEventApp extends App
